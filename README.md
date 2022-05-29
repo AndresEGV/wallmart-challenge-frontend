@@ -31,7 +31,7 @@ backend en nodejs que guarde la información en base de datos.
 Para el modelo de datos usar la siguiente entidad (es válido descartar
 algunos campos como ejem: pilots)
     <br />
-    <a href="https://clever-hawking-a01951.netlify.app/"><strong>Ver Deploy</strong></a>
+    <a href="https://nimble-sable-cd7f53.netlify.app/"><strong>Ver Deploy</strong></a>
     <br />
     <br />  
   </p>
