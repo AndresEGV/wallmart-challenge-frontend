@@ -51,6 +51,9 @@ const Form = () => {
       setPassangers("");
       setStarshipClass("");
       setCargoCapacity("");
+      setTimeout(() => {
+        setAlerta({});
+      }, 3000);
     } catch (error) {
       setAlerta({
         msg: error.response.data.msg,
